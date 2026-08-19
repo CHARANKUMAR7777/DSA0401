@@ -1,4 +1,4 @@
-prices = [100, 50, 200]
+#customerpurchase
 quantities = [2, 5, 1]
 
 discount = 10
