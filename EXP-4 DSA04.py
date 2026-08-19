@@ -1,4 +1,4 @@
-sales = [50000, 60000, 70000, 90000]
+#sales in year
 
 total = sum(sales)
 
