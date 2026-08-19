@@ -1,4 +1,4 @@
-fuel = [25, 30, 28, 35, 32]
+#fuelefficency
 
 average = sum(fuel) / len(fuel)
 
